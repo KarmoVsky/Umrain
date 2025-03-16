@@ -1,0 +1,16 @@
+{
+    "Hello, :first_name :last_name":"Hello, <strong>:first_name :last_name</strong>",
+    "You have been added to :business_name workspace and you can manage them services.": "You have been added to <strong>:business_name</strong> workspace and you can manage them services.",
+    "You have been received request from :business_name to create business profile.": "You have been received request from <strong>:business_name</strong> to create business profile.",
+    "Your request to create :business_name has been accepted and you can now manage the services.": "Your request to create <strong>:business_name</strong> has been accepted and you can now manage the services.",
+    "Your request to create :business_name has been accepted and you can now manage the services": "Your request to create <strong>:business_name</strong> has been accepted and you can now manage the services",
+    "Your request to create :business_name has been rejected and you can't manage the services.": "Your request to create <strong>:business_name</strong> has been rejected and you can't manage the services.",
+    "Your request to create :business_name has been rejected and you can't manage the services": "Your request to create <strong>:business_name</strong> has been rejected and you can't manage the services",
+    "New request to manage :services has been received from :business_name waiting you reply.": "New request to manage <strong>:services</strong> has been received from <strong>:business_name</strong> waiting you reply.",
+    "Your request to manage :hotel has been accepted and you can now manage the service.": "Your request to manage <strong>:hotel</strong> has been accepted and you can now manage the service.",
+    "Your request to manage :hotel has been rejected and you can't manage the service.": "Your request to manage <strong>:hotel</strong> has been rejected and you can't manage the service.",
+    ":name request to be a vendor": "<strong>:name</strong> request to be a vendor",
+    "Join :business_name workspace": "Join :business_name workspace",
+    "Cancel from :business_name workspace": "Cancel from :business_name workspace",
+    "You have been removed from :business_name workspace and you don't have access any more.": "You have been removed from <strong>:business_name</strong> workspace and you don't have access any more."
+}
